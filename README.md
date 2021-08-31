@@ -12,7 +12,7 @@ Note that it is a program that I originally devloped the "backend" some time ago
 # Sample Usage
 ```
 import SaveManager from savemanager
-savemanager = SaveManager("[Rclone server]:[folder]", "absolute file path")
+savemanager = SaveManager("[rclone server]:[folder]", "[absolute file path you wish to sync]")
 savemanager.wizard()
 ```
 
