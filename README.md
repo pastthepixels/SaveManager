@@ -10,7 +10,7 @@ This program works by creating a timestamp at your save location which tracks wh
 Note that it is a program that I originally devloped the "backend" some time ago but has had a the `SaveManager` class hacked together in an hour. Expect some errors.
 
 # Sample Usage
-```
+```python
 import SaveManager from savemanager
 savemanager = SaveManager("[rclone server]:[folder]", "[absolute file path you wish to sync]")
 savemanager.wizard()
