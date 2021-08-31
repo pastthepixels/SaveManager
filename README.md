@@ -23,5 +23,5 @@ savemanager.wizard()
 - MacOS: `/home/$USER/Library/Application Support/minecraft`
 
 # Roadmap for the future
-        - GUI counterpart, maybe in GTK 4?
-        - Automatic syncing, likely with the GUI program.
+- GUI counterpart, maybe in GTK 4?
+- Automatic syncing, likely with the GUI program.
