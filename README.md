@@ -17,10 +17,10 @@ savemanager.wizard()
 ```
 
 # Where's my Minecraft folder?
-Flatpak (Linux): `/home/$USER/.var/app/com.mojang.Minecraft/data/minecraft/`
-Linux Default: `/home/$USER/.minecraft`
-Windows: `%AppData%\.minecraft`
-MacOS: `/home/$USER/Library/Application Support/minecraft`
+- Flatpak (Linux): `/home/$USER/.var/app/com.mojang.Minecraft/data/minecraft/`
+- Linux Default: `/home/$USER/.minecraft`
+- Windows: `%AppData%\.minecraft`
+- MacOS: `/home/$USER/Library/Application Support/minecraft`
 
 # Roadmap for the future
         - GUI counterpart, maybe in GTK 4?
